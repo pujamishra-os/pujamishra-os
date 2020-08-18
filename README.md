@@ -22,6 +22,7 @@ Hi, I'm Puja Mishra, a Front-End Devloper 🚀 from India, currently, I'm workin
 <img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 
 </br>
+
  - 🔭 I’m currently working as a Front-End Devloper;
 - 🌱 I’m currently learning everything 🤣;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
@@ -30,9 +31,6 @@ Hi, I'm Puja Mishra, a Front-End Devloper 🚀 from India, currently, I'm workin
 - 📫 How to reach me: mishrapuja2016@gmail.com;
 - 🥅 2020 Goals: Contribute more to Open Source projects;
 - ⚡ Fun fact: I love to dance and cook;
-
-
-
 
 
 <br>
