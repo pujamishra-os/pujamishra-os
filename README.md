@@ -17,12 +17,11 @@
   <img align="left" alt="Puja's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
-Hi, I'm Puja Mishra, a Front-End Devloper 🚀 from India, currently, I'm working on Flutter project 🙍🏽‍♂️. Beside's programming, I enjoy cooking  and dancing.
 
+Hi, I'm Puja Mishra, a Front-End Devloper 🚀 from India, currently, I'm working on Flutter project 🙍🏽‍♂️. Beside's programming, I enjoy cooking  and dancing.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 
 </br>
-
  - 🔭 I’m currently working as a Front-End Devloper;
 - 🌱 I’m currently learning everything 🤣;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
